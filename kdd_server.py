@@ -10,7 +10,7 @@ from kdd_Prehandle import percent
 
 print_lock = threading.Lock() # define a lock
 
-
+'okkking'
 # define a thread
 def threaded(c,addr):
     trans_log = []
@@ -123,7 +123,7 @@ def threaded(c,addr):
         server_log.write(log+'\n')
     server_log.close()
 
-
+'pppppp aaa ss d fffg'
 # server set-up
 def Main():
     host  = 'localhost'

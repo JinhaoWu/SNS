@@ -6,7 +6,7 @@ import kdd_handle
 import sys
 from kdd_handle import label_statis
 from kdd_handle import category_statis
-
+'testing testing'
 # host set-up
 def Main():
     host = '127.0.0.1'
